@@ -6,9 +6,9 @@
 🌱 &nbsp;I'm on track for learning more about Java, Microservice Based Architecture and getting into Angular .\
 ✍️ &nbsp;In my free time, I pursue Gain new knowledge and develop it in personal projects.\
 💬 &nbsp;Feel free to contact me to do a project together, or just to have an interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ncristian.molina@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at romero.gg93@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my 
-<a href="https://cristianmolina.vercel.app/" target="_blank">Résumé</a> 
+<a href="#" target="_blank">Résumé</a> 
 for more details about me. I'm open to feedback and suggestions!
 
 
