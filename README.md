@@ -26,7 +26,7 @@ for more details about me. I'm open to feedback and suggestions!
 
 ### 📚 &nbsp; Frameworks, Platforms and Libraries
 
-![Springboot](https://shields.io)
+![Springboot](https://shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
